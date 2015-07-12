@@ -8,7 +8,7 @@
 ###############################################
 
 ## Remember to set your working directory
-setwd("C:\\Users\\olalie\\Documents\\DataScience\\4_ExploratoryDataAnalysis\\COURSE_PROJECTS\\CourseProject1")
+## setwd("C:\\Users\\olalie\\Documents\\DataScience\\4_ExploratoryDataAnalysis\\COURSE_PROJECTS\\CourseProject1")
 
 ## Get the raw data:
 if(!file.exists("./exdata-data-household_power_consumption.zip")){
